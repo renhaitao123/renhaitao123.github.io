@@ -4,6 +4,11 @@ github 加速网址 ：
 
 
 常见问题：
-  1、新电脑初始化一个本地仓库后，使用gitclone命令会报错
+  1、电脑初始化一个本地仓库步骤：
+     git init  ->  git  git config --global user.email "you@example.com"
+                   git config --global user.name "Your Name"
+     本地仓库的创建已经完成
+     
+  2、新电脑初始化一个本地仓库后，使用gitclone命令会报错
      The authenticity of host 'github.com (20.205.243.166)' can't be established. （秘钥问题）
      解决方法：https://blog.csdn.net/kaimo313/article/details/107307266
