@@ -1,3 +1,9 @@
 github 加速网址 ：
   https://github.com/docmirror/dev-sidecar
   https://web.doggo.top/user
+
+
+常见问题：
+  1、新电脑初始化一个本地仓库后，使用gitclone命令会报错
+     The authenticity of host 'github.com (20.205.243.166)' can't be established. （秘钥问题）
+     解决方法：https://blog.csdn.net/kaimo313/article/details/107307266
