@@ -5,7 +5,7 @@ github 加速网址 ：
 
 常见问题：
   1、电脑初始化一个本地仓库步骤：
-     git init  ->  git  git config --global user.email "you@example.com"
+     git init  ->  git config --global user.email "you@example.com"
                    git config --global user.name "Your Name"
      本地仓库的创建已经完成
      
